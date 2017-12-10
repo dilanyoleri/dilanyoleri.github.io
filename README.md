@@ -69,7 +69,6 @@
 <td><center>Fazla</center></td>
 </tr>
 </tbody></table>
-<p align="left"><b><font face="Times New Roman" size="5.5">Diğer Sayfalar İçin:</font></b></p>
 
 
 </body></html>
