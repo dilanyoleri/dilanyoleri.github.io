@@ -1,5 +1,3 @@
-
-<!-- saved from url=(0038)https://sedakanik.github.io/page2.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>PAGE2</title>
 
