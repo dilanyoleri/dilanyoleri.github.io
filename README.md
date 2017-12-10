@@ -1,8 +1,8 @@
 
-<html>
-<head>
+<!-- saved from url=(0038)https://sedakanik.github.io/page2.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>PAGE2</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
 <style>
 	.resimKapsulu{border:2px solid #999; width:200px; height:100px; -webkit-border-radius:12px; -moz-border-radius:12px; border-radius:12px;}
 	.resimKapsulu img{width:200px; height:100px; -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;}
@@ -13,32 +13,32 @@
 </style>
 </head>
 <body bgcolor="#CDC7CB">
-<h1 align="center"><b><font face="Times New Roman" size=6 color="#030003">YAPAY ZEKA</font></b></h1>
-<p align="center"><font face="Times New Roman" size=5.5 color="#030003">Bilgisayar teknolojilerinin yeni ortaya ��kt��� d�nemde, �Makineler d���nebilir mi?� sorusunun Mathison Turing taraf�ndan sorulmas� ile yapay zeka hakk�nda ilk ad�mlar at�lmaya ba�land�. Turing, geli�tirmi� oldu�u �e�itli makineler arac�l���yla �kinci D�nya Sava�� boyunca Almanlar�n �ifrelerini ��zerken Heath Robinson, Bombe ve Colossus gibi ilk �rneksel bilgisayarlar�n da yarat�c�s� olmu�tu. Yine kendi geli�tirdi�i Turing testi ile makinelerin ne denli d���nme yetisine sahip olduklar�n� sorgulayan bir k�stas ortaya ��kard�. �e�itli �ifre algoritmalar� ve veri �al��malar� ile birlikte ortaya ��kan Makine Zekas� kavram�, ilk bilgisayarlardan bug�nk� ak�ll� telefonlara kadar �retilen t�m teknolojik cihazlar�n, insan temel al�narak geli�tirildi�ini ortaya koymaktad�r. Eski d�nemlerde �ok yava� geli�se de g�n�m�ze kadar �nemli ad�mlar�n at�ld��� yapay zekada, bug�n yetenekli robotlar�n ortaya ��kmas� ile ne kadar ilerlendi�ini ortaya koymaktad�r.</font></p>
-<center><div class="resimKapsulu"><img src="2.jpg" width="200" height="100" /></div></center>
-<p align="center"><font face="Times New Roman" size=5.5 color="#030003">G�n�m�z i�letmelerin rekabet edebilirlikleri ve h�zl� de�i�ime ayak uydurmalar� inovasyonun �stlendi�i rol itibariyle hayati bir �nem ta��maktad�r. Son zamanlarda bakt���m�zda i�letmelerin farkl� stratejilerilerinde, teknoloji ve beraberinde inovasyon (yenilik) kavramlar� ile rekabet etti�i g�r�lmektedir. ��letmeler teknoloji �a��ndaki geli�melere ayak uydurmak i�in bilgisayar teknolojisinden istifade ederek zeki sistemlere y�nelmeye ba�lam��t�r ve bu konuda devreye b�t�n�yle yapay zeka girmektedir. Yapay zeka, insan beyni ve zekas�n�n karakteristik �zelliklerinden yola ��karak makinelerin karma��k problemlere insanlar gibi ��z�mler �retmesini sa�lama ile ilgilenen bir bilim dal�d�r. G�n�m�zde yapay zekan�n kullan�lma potansiyeli olan ve kullan�lan binlerce uygulama alan� bulunmaktad�r. Bu alanlar otonom kontrol� ve hedef tespiti gibi askeri uygulamalardan, bilgisayar oyunlar� ve robotik hayvanlar gibi e�lence d�nyas�na kadar geni� bir yelpazede de�erlendirebilir ve bilim adamlar�, ilerleyen y�llar i�erisinde, �ayet insan beynindeki n�ronlara kadar inerek buradaki bilgileri kopyalayabilirlerse t�pk� insan gibi davranabilen zekal� makineler, robotlar yap�labilece�ini d���n�yorlar.</font></p>
-<p align="center"><font face="Times New Roman" size=5.5 color="#030003">Yapay zekay� her ne kadar hep "v�cutlu bir robot" olarak d���nsek de, asl�ndan bundan �ok daha fazlas�d�r. Evlerimizde ve hatta ceplerimizdeki bir�ok elektronik e�ya yapay zeka ile donat�lm�� durumda. Burada basitten karma���a do�ru 5 yapay zeka sistemini �rnek olarak bulunmaktad�r. Bunlar�n baz�lar� hen�z ceplerimizde olan yaz�l�mlar de�il; ancak teknoloji geli�tik�e, t�pk� oda b�y�kl���ndeki bilgisayarlar�n ceplerimize girmesi gibi, bu yapay zeka ara�lar� da ceplerimizdeki ve evlerimizdeki yerini alacak.</font></p>
-<p align="left"><font face="Times New Roman" size=5.5>1) Apple Siri</font></p>
-<left><div class="resimKapsuluk"><img src="siri2.jpg" width="400" height="250" /></div></left>
-<p align="center"><font face="Times New Roman" size=5.5>Yapay zeka jargonunda "kitap dahisi" diyebilece�imiz d�zeyde olan Apple Siri, sordu�unuz sorulara cevaplar verebilecek kapasitede. �rne�in bir yeme�in tarifini sordu�unuzda, Google ya da Wikipedia gibi ara�lar� kullanarak sonu�lar ��karabilecek ve size sunabilecek durumda. Ayr�ca Siri, cevab� �ok bariz olan baz� sorulara cevap verme ve bariz emirlerinize itaat etme gibi yeteneklere de sahip. �rne�in Siri'yi kullanarak hava durumunu ��renebilir, istedi�iniz ki�iyi arayabilir, ajandan�za i�ledi�iniz bir toplant�n�n adresini GPS ile bulmas�n� ve sizi y�nlendirmesini sa�layabilir. Bu bak�mdan, �ok temel d�zeyde bir asistan olarak d���nebilirsiniz. Art�k yapay zeka sayesinde, herhangi bir �eyi yazarak zaman kaybetmenize gerek yok. Tek yapman�z gereken, telefonunuz ile konu�mak.</font></p>
-<p align="left"><font face="Times New Roman" size=5.5>2) Microsoft Cortana</font></p>
-<left><div class="resimKapsuluk"><img src="cortana.jpg" width="400" height="250" /></div></left>
-<p align="center"><font face="Times New Roman" size=5.5>Microsoft'un yapay zekas� Siri'nin �zerine birka� �zellik ekleyerek bir ad�m �ne ge�iyor. �rne�in daha �nceden sordu�unuz bir sorunun kendisini ve cevab�n� hat�rlayarak, sonraki sorular�n cevaplar�n� daha etkili bir �ekilde bulabiliyor. Hatta Cortana, i�i biraz daha b�y�terek sizin ki�iler, nesneler ve yerler i�in kulland���n�z takma isimleri bile ��renebiliyor. �rne�in evinize gitmek istedi�inizde her seferinde evinizden "in" ya da "ah�r" olarak bahsedecek olursan�z, birka� seferden sonra size ne demek istedi�inizi sormadan, demek istedi�inizi anlayabiliyor! Yani eviniz ile "ah�r�n�z�" haf�zas�nda e�lemeyi ba�ar�yor. Bu, ��renen makinalar�n en temel �zelliklerinden birisi ve geli�tirildi�inde ba� d�nd�r�c� sonu�lar� beraberinde getirecek.</font></p>
-<p align="left"><font face="Times New Roman" size=5.5>3) Google Now</font></p>
-<left><div class="resimKapsuluk"><img src="now.jpg" width="400" height="250" /></div></left>
-<p align="center"><font face="Times New Roman" size=5.5>Tabii ki rekabet s�z konusu oldu�unda, Google ile ba�a ��kmak bir hayli zor. Google, Cortana'n�n ��renme algoritmas�n� biraz daha karma��kla�t�rarak, sizinle sohbet edebiliyor. �rne�in Google Now'a "Eve gitmek istiyorum." dedi�inizde, sizi oraya y�nlendiriyor. Ancak bu i�lem tamamland�ktan sonra, herhangi ba�ka bir bilgi vermeksizin "Sence ne kadar s�rede oraya var�r�m?" diye sordu�unuzda, "ora"dan kast�n�z�n ne oldu�unu anlayabilir. Bu kula�a �ok basit geliyor; ancak makinalar i�in m�thi� bir ad�m. Bir di�er �rnek olarak "Arda Turan hangi tak�mda oynuyor?" diye sorabilirsiniz. Ona cevap ald�ktan hemen sonra, "Boyu ka� metre?" ya da "Ka� gol atm��?" diye soracak olursan�z, size "Kim ka� gol atm��?" diye sorunuzu tekrar ettirmeye gerek duymadan, cevab� verebiliyor. Bu, ger�ek insan-makina diyaloglar� konusunda b�y�k bir ad�m.</font></p>
-<p align="left"><font face="Times New Roman" size=5.5>4) IBM Watson</font></p>
-<left><div class="resimKapsuluk"><img src="watson.jpg" width="400" height="250" /></div></left>
-<p align="center"><font face="Times New Roman" size=5.5>Watson, yapay zekan�n g�z bebeklerinden birisi. Watson, karmakar���k hastane kay�tlar�n� analiz ederek, mant�kl� desenler ke�fedebiliyor ve bundan ��rendi�i sonu�lar� size sunabiliyor. Dahas�, doktorlar�n �ng�remeyece�i kadar veriyi bir arada i�leyerek, te�his ve tan�da tavsiyelerde bulunuyor. Hatta daha �nceden g�rd��� hastalardan yola ��karak, tedavinin de en uygun nas�l yap�labilece�i konusunda fikirler ileri s�rebiliyor. Yani Watson, gelecekte hastanelerde size bakacak, tan�y� koyacak ve tedavi edecek doktorlardan biri olabilir. Elbette, daha �nceden sayd���m�z 3 yaz�l�mda oldu�u gibi, sizinle rahatl�kla diyaloga girebiliyor, uzun sohbetler yapabiliyor. </font></p>
-<p align="left"><font face="Times New Roman" size=5.5>5) IPsoft Amelia</font></p>
-<left><div class="resimKapsuluk"><img src="amelia2.jpg" width="400" height="250" /></div></left>
-<p align="center"><font face="Times New Roman" size=5.5>Yapay zeka camias�n�n yeni y�ld�zlar�ndan Amelia, art�k ticari bir �r�n olarak da sat��a ��kar�ld�. Amelia'y� di�erlerinden ay�ran �nemli fark duygusal fark�ndal�k eklenmi� olmas�d�r. Gelecekte bu sistemin m��teri hizmetlerinin yerini tamamiyle almas� bekleniyor. ��nk� �u anda otomatik m��teri hizmetleri makinalar�n�n aksine, m��terilerin ses tonlar�ndan yola ��karak onlar�n duygusal hallerini alg�layabiliyor ve ona uygun duygularla cevap veriyor. Sadece mant�ksal ��kar�mlarda de�il, duygusal ��kar�mlarda da bulunuyor. Bu bak�mdan, yapay zeka jargonunda "sokak dahisi" olarak an�l�yor. Yani Apple Siri'de olan "entellekt�el kitap bilgilerinin" �tesinde, sokaktaki herhangi bir insana hitap edebilecek bir d�zeyde oldu�u s�ylenilebilir.</font></p>
-<p align="left"><font face="Times New Roman" size=5.5><b>�nsan Zekas� ve Yapay Zeka Aras�ndaki Farkl�l�klar Tablosu</b></font></p>
+<h1 align="center"><b><font face="Times New Roman" size="6" color="#030003">YAPAY ZEKA</font></b></h1>
+<p align="center"><font face="Times New Roman" size="5.5" color="#030003">Bilgisayar teknolojilerinin yeni ortaya çıktığı dönemde, “Makineler düşünebilir mi?” sorusunun Mathison Turing tarafından sorulması ile yapay zeka hakkında ilk adımlar atılmaya başlandı. Turing, geliştirmiş olduğu çeşitli makineler aracılığıyla İkinci Dünya Savaşı boyunca Almanların şifrelerini çözerken Heath Robinson, Bombe ve Colossus gibi ilk örneksel bilgisayarların da yaratıcısı olmuştu. Yine kendi geliştirdiği Turing testi ile makinelerin ne denli düşünme yetisine sahip olduklarını sorgulayan bir kıstas ortaya çıkardı. Çeşitli şifre algoritmaları ve veri çalışmaları ile birlikte ortaya çıkan Makine Zekası kavramı, ilk bilgisayarlardan bugünkü akıllı telefonlara kadar üretilen tüm teknolojik cihazların, insan temel alınarak geliştirildiğini ortaya koymaktadır. Eski dönemlerde çok yavaş gelişse de günümüze kadar önemli adımların atıldığı yapay zekada, bugün yetenekli robotların ortaya çıkması ile ne kadar ilerlendiğini ortaya koymaktadır.</font></p>
+<center><div class="resimKapsulu"><img src="./dilanyoleri_files/2.jpg" width="200" height="100"></div></center>
+<p align="center"><font face="Times New Roman" size="5.5" color="#030003">Günümüz işletmelerin rekabet edebilirlikleri ve hızlı değişime ayak uydurmaları inovasyonun üstlendiği rol itibariyle hayati bir önem taşımaktadır. Son zamanlarda baktığımızda işletmelerin farklı stratejilerilerinde, teknoloji ve beraberinde inovasyon (yenilik) kavramları ile rekabet ettiği görülmektedir. İşletmeler teknoloji çağındaki gelişmelere ayak uydurmak için bilgisayar teknolojisinden istifade ederek zeki sistemlere yönelmeye başlamıştır ve bu konuda devreye bütünüyle yapay zeka girmektedir. Yapay zeka, insan beyni ve zekasının karakteristik özelliklerinden yola çıkarak makinelerin karmaşık problemlere insanlar gibi çözümler üretmesini sağlama ile ilgilenen bir bilim dalıdır. Günümüzde yapay zekanın kullanılma potansiyeli olan ve kullanılan binlerce uygulama alanı bulunmaktadır. Bu alanlar otonom kontrolü ve hedef tespiti gibi askeri uygulamalardan, bilgisayar oyunları ve robotik hayvanlar gibi eğlence dünyasına kadar geniş bir yelpazede değerlendirebilir ve bilim adamları, ilerleyen yıllar içerisinde, şayet insan beynindeki nöronlara kadar inerek buradaki bilgileri kopyalayabilirlerse tıpkı insan gibi davranabilen zekalı makineler, robotlar yapılabileceğini düşünüyorlar.</font></p>
+<p align="center"><font face="Times New Roman" size="5.5" color="#030003">Yapay zekayı her ne kadar hep "vücutlu bir robot" olarak düşünsek de, aslından bundan çok daha fazlasıdır. Evlerimizde ve hatta ceplerimizdeki birçok elektronik eşya yapay zeka ile donatılmış durumda. Burada basitten karmaşığa doğru 5 yapay zeka sistemini örnek olarak bulunmaktadır. Bunların bazıları henüz ceplerimizde olan yazılımlar değil; ancak teknoloji geliştikçe, tıpkı oda büyüklüğündeki bilgisayarların ceplerimize girmesi gibi, bu yapay zeka araçları da ceplerimizdeki ve evlerimizdeki yerini alacak.</font></p>
+<p align="left"><font face="Times New Roman" size="5.5">1) Apple Siri</font></p>
+<left><div class="resimKapsuluk"><img src="./dilanyoleri_files/siri2.jpg" width="400" height="250"></div></left>
+<p align="center"><font face="Times New Roman" size="5.5">Yapay zeka jargonunda "kitap dahisi" diyebileceğimiz düzeyde olan Apple Siri, sorduğunuz sorulara cevaplar verebilecek kapasitede. Örneğin bir yemeğin tarifini sorduğunuzda, Google ya da Wikipedia gibi araçları kullanarak sonuçlar çıkarabilecek ve size sunabilecek durumda. Ayrıca Siri, cevabı çok bariz olan bazı sorulara cevap verme ve bariz emirlerinize itaat etme gibi yeteneklere de sahip. Örneğin Siri'yi kullanarak hava durumunu öğrenebilir, istediğiniz kişiyi arayabilir, ajandanıza işlediğiniz bir toplantının adresini GPS ile bulmasını ve sizi yönlendirmesini sağlayabilir. Bu bakımdan, çok temel düzeyde bir asistan olarak düşünebilirsiniz. Artık yapay zeka sayesinde, herhangi bir şeyi yazarak zaman kaybetmenize gerek yok. Tek yapmanız gereken, telefonunuz ile konuşmak.</font></p>
+<p align="left"><font face="Times New Roman" size="5.5">2) Microsoft Cortana</font></p>
+<left><div class="resimKapsuluk"><img src="./dilanyoleri_files/cortana.jpg" width="400" height="250"></div></left>
+<p align="center"><font face="Times New Roman" size="5.5">Microsoft'un yapay zekası Siri'nin üzerine birkaç özellik ekleyerek bir adım öne geçiyor. Örneğin daha önceden sorduğunuz bir sorunun kendisini ve cevabını hatırlayarak, sonraki soruların cevaplarını daha etkili bir şekilde bulabiliyor. Hatta Cortana, işi biraz daha büyüterek sizin kişiler, nesneler ve yerler için kullandığınız takma isimleri bile öğrenebiliyor. Örneğin evinize gitmek istediğinizde her seferinde evinizden "in" ya da "ahır" olarak bahsedecek olursanız, birkaç seferden sonra size ne demek istediğinizi sormadan, demek istediğinizi anlayabiliyor! Yani eviniz ile "ahırınızı" hafızasında eşlemeyi başarıyor. Bu, öğrenen makinaların en temel özelliklerinden birisi ve geliştirildiğinde baş döndürücü sonuçları beraberinde getirecek.</font></p>
+<p align="left"><font face="Times New Roman" size="5.5">3) Google Now</font></p>
+<left><div class="resimKapsuluk"><img src="./dilanyoleri_files/now.jpg" width="400" height="250"></div></left>
+<p align="center"><font face="Times New Roman" size="5.5">Tabii ki rekabet söz konusu olduğunda, Google ile başa çıkmak bir hayli zor. Google, Cortana'nın öğrenme algoritmasını biraz daha karmaşıklaştırarak, sizinle sohbet edebiliyor. Örneğin Google Now'a "Eve gitmek istiyorum." dediğinizde, sizi oraya yönlendiriyor. Ancak bu işlem tamamlandıktan sonra, herhangi başka bir bilgi vermeksizin "Sence ne kadar sürede oraya varırım?" diye sorduğunuzda, "ora"dan kastınızın ne olduğunu anlayabilir. Bu kulağa çok basit geliyor; ancak makinalar için müthiş bir adım. Bir diğer örnek olarak "Arda Turan hangi takımda oynuyor?" diye sorabilirsiniz. Ona cevap aldıktan hemen sonra, "Boyu kaç metre?" ya da "Kaç gol atmış?" diye soracak olursanız, size "Kim kaç gol atmış?" diye sorunuzu tekrar ettirmeye gerek duymadan, cevabı verebiliyor. Bu, gerçek insan-makina diyalogları konusunda büyük bir adım.</font></p>
+<p align="left"><font face="Times New Roman" size="5.5">4) IBM Watson</font></p>
+<left><div class="resimKapsuluk"><img src="./dilanyoleri_files/watson.jpg" width="400" height="250"></div></left>
+<p align="center"><font face="Times New Roman" size="5.5">Watson, yapay zekanın göz bebeklerinden birisi. Watson, karmakarışık hastane kayıtlarını analiz ederek, mantıklı desenler keşfedebiliyor ve bundan öğrendiği sonuçları size sunabiliyor. Dahası, doktorların öngöremeyeceği kadar veriyi bir arada işleyerek, teşhis ve tanıda tavsiyelerde bulunuyor. Hatta daha önceden gördüğü hastalardan yola çıkarak, tedavinin de en uygun nasıl yapılabileceği konusunda fikirler ileri sürebiliyor. Yani Watson, gelecekte hastanelerde size bakacak, tanıyı koyacak ve tedavi edecek doktorlardan biri olabilir. Elbette, daha önceden saydığımız 3 yazılımda olduğu gibi, sizinle rahatlıkla diyaloga girebiliyor, uzun sohbetler yapabiliyor. </font></p>
+<p align="left"><font face="Times New Roman" size="5.5">5) IPsoft Amelia</font></p>
+<left><div class="resimKapsuluk"><img src="./dilanyoleri_files/amelia2.jpg" width="400" height="250"></div></left>
+<p align="center"><font face="Times New Roman" size="5.5">Yapay zeka camiasının yeni yıldızlarından Amelia, artık ticari bir ürün olarak da satışa çıkarıldı. Amelia'yı diğerlerinden ayıran önemli fark duygusal farkındalık eklenmiş olmasıdır. Gelecekte bu sistemin müşteri hizmetlerinin yerini tamamiyle alması bekleniyor. Çünkü şu anda otomatik müşteri hizmetleri makinalarının aksine, müşterilerin ses tonlarından yola çıkarak onların duygusal hallerini algılayabiliyor ve ona uygun duygularla cevap veriyor. Sadece mantıksal çıkarımlarda değil, duygusal çıkarımlarda da bulunuyor. Bu bakımdan, yapay zeka jargonunda "sokak dahisi" olarak anılıyor. Yani Apple Siri'de olan "entellektüel kitap bilgilerinin" ötesinde, sokaktaki herhangi bir insana hitap edebilecek bir düzeyde olduğu söylenilebilir.</font></p>
+<p align="left"><font face="Times New Roman" size="5.5"><b>İnsan Zekası ve Yapay Zeka Arasındaki Farklılıklar Tablosu</b></font></p>
 <table border="5">
-<tr>
-<th><br>Nitelikler</br></th>
-<th><br>�nsan Zekas�</br></th>
-<th><br>Yapay Zeka</br></th>
+<tbody><tr>
+<th><br>Nitelikler<br></th>
+<th><br>İnsan Zekası<br></th>
+<th><br>Yapay Zeka<br></th>
 </tr>
 <tr>
 <td><center>Duyu kullanma becerisi</center></td>
@@ -46,22 +46,22 @@
 <td><center>Az</center></td>
 </tr>
 <tr>
-<td><center>Yarat�c� ve hayalperest olma becerisi</center></td>
+<td><center>Yaratıcı ve hayalperest olma becerisi</center></td>
 <td><center>Fazla</center></td>
 <td><center>Az</center></td>
 </tr>
 <tr>
-<td><center>Deneyimlerden ��renme becerisi</center></td>
+<td><center>Deneyimlerden öğrenme becerisi</center></td>
 <td><center>Fazla</center></td>
 <td><center>Az</center></td>
 </tr>
 <tr>
-<td><center>�e�itli bilgi kayna�� kullanabilme becerisi</center></td>
+<td><center>Çeşitli bilgi kaynağı kullanabilme becerisi</center></td>
 <td><center>Fazla</center></td>
 <td><center>Fazla</center></td>
 </tr>
 <tr>
-<td><center>Karma��k hesap yapabilme becerisi</center></td>
+<td><center>Karmaşık hesap yapabilme becerisi</center></td>
 <td><center>Az</center></td>
 <td><center>Fazla</center></td>
 </tr>
@@ -70,9 +70,9 @@
 <td><center>Az</center></td>
 <td><center>Fazla</center></td>
 </tr>
-</table>
-<p align="left"><b><font face="Times New Roman" size=5.5>Di�er Sayfalar ��in:</font></b></p>
-<p><a href="index.html"><font size=4>�lk Sayfa</font></a></p>
-<p><a href="page3.html"><font size=4>���nc� Sayfa</font></a></p>
-</body>
-</html>
+</tbody></table>
+<p align="left"><b><font face="Times New Roman" size="5.5">Diğer Sayfalar İçin:</font></b></p>
+<p><a href="https://sedakanik.github.io/index.html"><font size="4">İlk Sayfa</font></a></p>
+<p><a href="https://sedakanik.github.io/page3.html"><font size="4">Üçüncü Sayfa</font></a></p>
+
+</body></html>
